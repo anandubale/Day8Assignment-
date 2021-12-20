@@ -29,11 +29,15 @@ namespace EmployeePresentOrNotRefactoring
             s1.Solution();
             */
 
+            
             WageForMonth s1 = new WageForMonth(1);
             s1.Solution();
+            
 
-
-
+            /*
+            MinNumberOfDayandHrs m1 = new MinNumberOfDayandHrs(1);
+            m1.Solution();
+            */
         }
     }
 }
