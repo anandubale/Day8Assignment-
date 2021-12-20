@@ -18,8 +18,14 @@ namespace EmployeePresentOrNotRefactoring
             DailyEmployeeWage W1 = new DailyEmployeeWage(1);
             W1.Solution();
             */
+
+            /*
             PartTimeEmployee P1 = new PartTimeEmployee(1);
             P1.Solution();
+            */
+
+            WageUsingSwitch s1 = new WageUsingSwitch(1);
+            s1.Solution();
 
 
         }
