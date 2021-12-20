@@ -24,8 +24,14 @@ namespace EmployeePresentOrNotRefactoring
             P1.Solution();
             */
 
+            /*
             WageUsingSwitch s1 = new WageUsingSwitch(1);
             s1.Solution();
+            */
+
+            WageForMonth s1 = new WageForMonth(1);
+            s1.Solution();
+
 
 
         }
