@@ -14,8 +14,13 @@ namespace EmployeePresentOrNotRefactoring
             p1.Solution();
             */
 
+            /*
             DailyEmployeeWage W1 = new DailyEmployeeWage(1);
             W1.Solution();
+            */
+            PartTimeEmployee P1 = new PartTimeEmployee(1);
+            P1.Solution();
+
 
         }
     }
